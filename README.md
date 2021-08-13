@@ -46,13 +46,13 @@
 
 <p align="center">
 
-  <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
+  <a href="https://github.com/itsmegng/itsmegng#requirements">Requirements</a> •
 
-  <a href="https://github.com/Nino-chan02/NinoWangy#instalasi">Installation</a> •
+  <a href="https://github.com/itsmegng/itsmegng">Installation</a> •
 
-  <a href="https://github.com/Nino-chan02/NinoWangy#features">Features</a> •
+  <a href="https://github.com/itsmegng/itsmegng#features">Features</a> •
 
-  <a href="https://github.com/Nino-chan02/NinoWangy#thanks-to">Thanks to</a>
+  <a href="https://github.com/itsmegng/itsmegng#thanks-to">Thanks to</a>
 
 </p>
 
@@ -78,9 +78,9 @@
 
 ```bash
 
-git clone https://github.com/Nino-chan02/NinoWangy
+git clone https://github.com/itsmegng/itsmegng
 
-cd Nino
+cd istmegng
 
 npm install
 
@@ -98,9 +98,9 @@ pkg update && pkg upgrade
 
 pkg install nodejs git ffmpeg libwebp 
 
-git clone https://github.com/Nino-chan02/NinoWangy
+git clone https://github.com/itsmegng/itsmegng
 
-cd NinoWangy
+cd istmegng
 
 npm install
 
@@ -166,7 +166,7 @@ webpmux -version
 
 # Features
 
-- Cek [disini](https://github.com/Nino-chan02/NinoWangyy/blob/main/message/help.js)
+- Cek [disini](https://github.com/itsmegng/itsmegngblob/main/message/help.js)
 
 # MAKASIH LORT
 
