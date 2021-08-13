@@ -1,8 +1,8 @@
 -<div align="center">
 
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
+<img src= "Screenshot_2021-08-02-04-04-49-493_com.hwwhatsapp.jpg" alt="NinoBot" width="500" />
 
-# NinoBot & Dan GnG Botz
+GnG Botz
 
 > NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 
