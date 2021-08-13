@@ -2,7 +2,7 @@
 
 <img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
 
-# NinoBot
+# NinoBot & Dan GnG Botz
 
 > NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 
@@ -80,7 +80,7 @@
 
 git clone https://github.com/Nino-chan02/NinoWangy
 
-cd NinoWangy
+cd Nino
 
 npm install
 
