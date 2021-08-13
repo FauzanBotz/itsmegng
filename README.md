@@ -4,7 +4,7 @@
 
 GnG Botz
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> SEMENTARA KGK ADA FOTONYA :V is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 
 >
 
