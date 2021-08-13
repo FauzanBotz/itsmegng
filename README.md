@@ -1,10 +1,10 @@
 -<div align="center">
 
-<img src= "Screenshot_2021-08-02-04-04-49-493_com.hwwhatsapp.jpg" alt="NinoBot" width="500" />
+<img src= "Screenshot_2021-08-02-04-04-49-493_com.hwwhatsapp.jpg" alt="GngBot" width="500" />
 
 GnG Botz
 
-> SEMENTARA KGK ADA FOTONYA :V is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> HALO KAK 
 
 >
 
