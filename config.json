@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6285215988509@s.whatsapp.net",
+    "ownerName": "Agung Ganz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "GnG Bot",
+    "pathImg": "./media/gng.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "GNG-BOTZ",
+    "sesidInsta": "default",
+    "sessionName": "AgungBotz",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
