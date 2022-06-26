@@ -22,7 +22,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "jsdom": "^16.5.3",
     "moment-timezone": "^0.5.33",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "parse-ms": "^2.1.0",
     "qrcode": "^1.4.4",
     "request": "^2.88.2",
